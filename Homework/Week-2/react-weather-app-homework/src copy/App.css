@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin-top: 3%;
+}
+
+#minMax {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+button {
+  margin-bottom: 1%;
+}
